@@ -1,5 +1,7 @@
 # bajita
-Trying to find about the boundaries of a tiny IPC as a server for  data analytics and visualisation.
+
+## objective
+Trying to find about the boundaries of a tiny IPC as a server for running a stack of containers for data analytics and visualisation.
 
 ## architecture
 
@@ -14,3 +16,10 @@ Trying to find about the boundaries of a tiny IPC as a server for  data analytic
 - [Opendistro for Elasticsearch and Kibana]()
 - [Apache Kafka]()
 - [Grafana]()
+- [pgAdmin4]()
+- [cerebro]()
+
+## useful resources
+
+- [RegExr]()
+- [Epoch Time Converter]()
